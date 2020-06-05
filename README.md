@@ -9,7 +9,7 @@
  ### Requirements
 - python 3.6
 - pytorch 1.4
-- tensorflow-gpu 1.14
+- tensorflow-gpu 1.14 (for potrait face)
 - face-alignment
  
  face-makeup-Colab NoteBook:[link](https://colab.research.google.com/github/ash11sh/face-makeup.PyTorch/blob/master/face_makeup.ipynb)

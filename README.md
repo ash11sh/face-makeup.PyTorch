@@ -4,7 +4,7 @@
  
  This project provides you IPython Notebook to use face-makeup with Google Colaboratory.
 
- ``here i add module to do makeup on potrait photo``
+ ``here i added module to do makeup on potrait photo``
  
  ### Requirements
 - python 3.6
